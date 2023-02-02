@@ -16,4 +16,4 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="BOOTSTRAP" alt="BOOTSTRAP" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MATERIAL UI" alt="MATERIALUI" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="GIT" width="40" height="40"/>
-   <div/>
+  <div/>
